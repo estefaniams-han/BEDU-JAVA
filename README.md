@@ -25,7 +25,7 @@ Todo enfocado en escribir código limpio, mantenible y escalable.
 
 ## 📁 Estructura del Repositorio
 
-Cada carpeta representa un reto o módulo trabajado a lo largo del curso. Dentro encontrarás archivos `.java` organizados por tema o unidad.
+Cada carpeta representa una sesión trabajada a lo largo del curso. Dentro encontrarás archivos `.java` organizados por número de reto perteneciente a la respectiva sesión.
 
 ## 🚧 Estado del Proyecto
 
