@@ -1,0 +1,2 @@
+Error al leer el archivo de logs:
+errores.log (El sistema no puede encontrar el archivo especificado)
