@@ -48,8 +48,7 @@ También se incluyen proyectos desarrollados durante la segunda edición, como s
 
 ## 🚧 Estado del Proyecto
 
-🛠 En desarrollo constante conforme avanzo en el curso y retos personales.  
-✨ Este repositorio seguirá creciendo con nuevas prácticas, ideas y proyectos.
+🛠 Completado.  
 
 ---
 
